@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saridehemanjali&label=Profile%20views&color=0e75b6&style=flat" alt="saridehemanjali" /> </p>
 
-- 🔭 I’m currently working on **Customizable AI Character for Interactive Learning**
+- 🔭 I’m currently working on **Generative AI driven Interactive Learning Platform**
 
-- 👨‍💻 All of my projects are available at [https://saridehemanjali.github.io/anjali_portfolio/](https://saridehemanjali.github.io/anjali_portfolio/)
+- 👨‍💻 Eager To work,My friendly language is Python
 
-- 💬 Ask me about **web development,Data science,ML**
+- 💬 Ask me about **Technical Theory,DSA**
 
 - 📫 How to reach me **anjalisaride546@gmail.com**
 
