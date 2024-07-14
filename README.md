@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hemanjali Saride</h1>
 <h3 align="center">A passionate AI enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saridehemanjali&label=Profile%20views&color=0e75b6&style=flat" alt="saridehemanjali" /> </p>
-<p align="right"> <img src="C.gif" alt="saridehemanjali" /> </p>
+<p align="right"> <img src="C.gif"  /> </p>
 
 - 🔭 I’m currently working on **Generative AI driven Interactive Learning Platform**
 
