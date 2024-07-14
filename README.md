@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hemanjali Saride</h1>
 <h3 align="center">A passionate AI enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saridehemanjali&label=Profile%20views&color=0e75b6&style=flat" alt="saridehemanjali" /> </p>
-<p align="right"> <img src="C.gif"  /> </p>
 
 - 🔭 I’m currently working on **Generative AI driven Interactive Learning Platform**
 
@@ -11,7 +10,7 @@
 - 💬 Ask me about **Technical Theory,DSA**
 
 - 📫 How to reach me **anjalisaride546@gmail.com**
-
+<p align="right"> <img src="C.gif"  /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemanjali-saride-6a94a4250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanjali-saride-6a94a4250" height="30" width="40" /></a>
