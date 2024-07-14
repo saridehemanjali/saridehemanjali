@@ -1,3 +1,4 @@
+<p align="center"><img src="B.jpg" /> </p>
 <h1 align="center">Hi 👋, I'm Hemanjali Saride</h1>
 <h3 align="center">A passionate AI enthusiast from India</h3>
 
