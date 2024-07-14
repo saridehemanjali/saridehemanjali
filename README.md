@@ -10,7 +10,7 @@
 - 💬 Ask me about **Technical Theory,DSA**
 
 - 📫 How to reach me **anjalisaride546@gmail.com**
-<p align="right"> <img src="C.gif"  alt="coder" width="500" height="300"> </p>
+<p align="right"> <img src="C.gif"  alt="coder" width="200" height="300"> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemanjali-saride-6a94a4250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanjali-saride-6a94a4250" height="30" width="40" /></a>
